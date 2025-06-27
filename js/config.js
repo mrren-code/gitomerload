@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "BrooksideRP";
+Config.title = "Житомироград";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -28,7 +28,8 @@ Config.enableAnnouncements = true;
  */
 Config.announceMessages = [
   "F4 меню - дозволяє обрати власну професію.",
-  "Знайшли баг - повідомте в наш дискорд!"
+  "Знайшли баг - повідомте в наш дискорд!",
+  "Хочеш підтримати проект? - F6",
 ];
 
 /**
